@@ -10,10 +10,4 @@
 ### Code examples
 `git clone <url>`
 
----
-```bash
-cd /opt
-git clone <repo url>
-```
-
----
+-
